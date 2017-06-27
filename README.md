@@ -1,2 +1,2 @@
 # softwarePatterns
-personal repository to learn about by implementing software patterns in code
+Personal repository to learn about software patterns by implementing them in code
